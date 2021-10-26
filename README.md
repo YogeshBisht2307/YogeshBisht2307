@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshbisht2307&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshbisht2307" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **DjangoRestFramework and React Based Projects**
 
 - 🌱 I’m currently learning **React Js, Full stack development & etc.**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://code-material.blogspot.com/](https://code-material.blogspot.com/)
 
-- 💬 Ask me about **Django, Python, C++, JavaScript, CSS, MySQL**
+- 💬 Ask me about **Django, Python, JavaScript, CSS, MySQL**
 
 - 📫 How to reach me **Yogeshbisht.2307@gmail.com**
 

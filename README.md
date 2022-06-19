@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DjangoRestFramework and React Based Projects**
 
-- 🌱 I’m currently learning **React Js, Full stack development & etc.**
+- 🌱 I’m currently learning **Cloud Technologies & etc.**
 
 - 👨‍💻 All of my projects are available at [https://yogesh-bisht.netlify.app/](https://yogesh-bisht.netlify.app/)
 

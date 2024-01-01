@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Bisht</h1>
-<h3 align="center">A full stack developer with a passion for building scalable and reliable applications, I have experience in managing EC2 servers and building serverless architectures on AWS using SAM, Cloudformation and terraform. With a strong background in Python and React JS.
+<h3 align="center">A full stack developer with a passion for building scalable and reliable applications, I have experience in managing EC2 servers and building serverless architectures on AWS using SAM, Cloudformation and terraform. With a strong background in Python and Next JS.
 I have a proven track record of successfully managing and maintaining production environments and delivering high-quality software solutions.
 Whether it's building APIs, developing responsive user interfaces, or optimizing cloud infrastructure.
 
